@@ -1,0 +1,475 @@
+{
+   "checksum": "66421ca67828b73688375e202976d8f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13243180904000000",
+            "guid": "e16cfb48-d352-44cf-b201-03d107ef95e8",
+            "id": "5",
+            "name": "Arch Bugs",
+            "type": "url",
+            "url": "https://bugs.archlinux.org/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "5ee6b24e-c0dd-4301-8742-a4ef826691af",
+            "id": "6",
+            "name": "Arch Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "ec2b693e-6ac6-4ad3-9d89-04811c0ea7ed",
+            "id": "7",
+            "name": "Arch Homepage",
+            "type": "url",
+            "url": "https://www.archlinux.org/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "d95e1715-ac64-480a-88d6-4f154c6ac3b8",
+            "id": "8",
+            "name": "Arch Packages",
+            "type": "url",
+            "url": "https://www.archlinux.org/packages/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "a6d87f77-a9d3-4558-b4ed-ef6814ddcfc4",
+            "id": "9",
+            "name": "Arch Wiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "fbaf6057-c689-4778-9699-c824c8277081",
+            "id": "10",
+            "name": "AUR Home",
+            "type": "url",
+            "url": "https://aur.archlinux.org/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "043dbcd3-e57d-4727-a0cb-918b8c226309",
+            "id": "11",
+            "name": "Planet Arch",
+            "type": "url",
+            "url": "https://www.archlinux.org/planet/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "d49861c8-1a4d-4159-840f-64d8ef63b972",
+            "id": "12",
+            "name": "Aows",
+            "type": "url",
+            "url": "https://aows.co/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "af0ce311-9ff2-4f51-a785-62c786c31612",
+            "id": "13",
+            "name": "Blader Union",
+            "type": "url",
+            "url": "https://bladerunion.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "69be1f35-3b6d-4d70-a399-3a597434eec9",
+            "id": "14",
+            "name": "Brendan Toews",
+            "type": "url",
+            "url": "https://brendantoews.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "5401a075-b4b5-41db-afd2-e5f82f5facf1",
+            "id": "15",
+            "name": "CineFacts",
+            "type": "url",
+            "url": "https://www.cinefacts.it/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "5092afb7-4c64-4ac0-a3d5-e5805dfbc59f",
+            "id": "16",
+            "name": "Erick Kim",
+            "type": "url",
+            "url": "https://erickimphotography.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "b113afe2-688e-4b6a-8f5b-8a62739b0c6f",
+            "id": "17",
+            "name": "Magnum Photos",
+            "type": "url",
+            "url": "https://www.magnumphotos.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "adf23346-0e32-40f1-ad64-b0336fbcaa9f",
+            "id": "18",
+            "name": "Mikael Siirila",
+            "type": "url",
+            "url": "https://www.mikaelsiirila.fi/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "b989a596-d09c-4b70-a0bc-e0e58bb051c2",
+            "id": "19",
+            "name": "Wolfgang",
+            "type": "url",
+            "url": "https://notthebe.ee/index.html"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "a2445559-c000-4f46-bf7c-abfbdf00b70d",
+            "id": "20",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "d7ce7297-98e7-435d-a9a0-80981ab1e582",
+            "id": "21",
+            "name": "LBRY",
+            "type": "url",
+            "url": "https://lbry.tv/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "c50a41ce-b3ca-4e06-8001-6f17cde62e6d",
+            "id": "22",
+            "name": "MV site",
+            "type": "url",
+            "url": "https://marcovannucci.it/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "c31b43bb-9960-495a-b11e-9cb90c8fb429",
+            "id": "23",
+            "name": "Reddit",
+            "type": "url",
+            "url": "https://reddit.com/"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "15db799d-c28a-4c45-890b-f8502460884f",
+            "id": "24",
+            "name": "Strava",
+            "type": "url",
+            "url": "https://www.strava.com/dashboard"
+         }, {
+            "date_added": "13243180904000000",
+            "guid": "ca00b46a-6721-42db-b690-ac49a53000f8",
+            "id": "25",
+            "name": "Youtube",
+            "type": "url",
+            "url": "https://www.invidio.us/feed/subscriptions"
+         }, {
+            "date_added": "13243182215000000",
+            "guid": "5f3ee420-6df4-4fd8-a358-ef7c7d548e07",
+            "id": "26",
+            "name": "My Vault | Bitwarden Web Vault",
+            "type": "url",
+            "url": "https://vault.bitwarden.com/#/vault"
+         }, {
+            "date_added": "13243676927000000",
+            "guid": "8716a2c8-5ac8-4d7d-8200-9f73d513b1d1",
+            "id": "27",
+            "name": "TypeRacer - Learn to type in Italian (Italiano)",
+            "type": "url",
+            "url": "https://play.typeracer.com/?universe=lang_it"
+         }, {
+            "date_added": "13243945745000000",
+            "guid": "a1c3f3d0-8b20-4a0e-9ecf-bed9eb0840c4",
+            "id": "28",
+            "name": "HifiGuides Forums",
+            "type": "url",
+            "url": "https://forum.hifiguides.com/"
+         }, {
+            "date_added": "13244564598000000",
+            "guid": "21a4ae9e-fdcb-4dce-886b-c2ea14837e80",
+            "id": "29",
+            "name": "UNIVPM - Università Politecnica delle Marche Home",
+            "type": "url",
+            "url": "https://www.univpm.it/Entra/"
+         }, {
+            "date_added": "13245258206000000",
+            "guid": "7c9efffa-0c65-4848-9f6c-207f00217f9a",
+            "id": "30",
+            "name": "Subtitles - download movie and TV Series subtitles",
+            "type": "url",
+            "url": "https://www.opensubtitles.org/en/search/subs"
+         }, {
+            "date_added": "13245322372000000",
+            "guid": "e24793ce-b1b1-4984-af7d-47619df28727",
+            "id": "31",
+            "name": "LOW←TECH MAGAZINE",
+            "type": "url",
+            "url": "https://solar.lowtechmagazine.com/"
+         }, {
+            "date_added": "13245322404000000",
+            "guid": "d214dba6-adfa-4bad-8b9a-5bc5e31610f7",
+            "id": "32",
+            "name": "Hacker News",
+            "type": "url",
+            "url": "https://news.ycombinator.com/news"
+         }, {
+            "date_added": "13245323673000000",
+            "guid": "df405fef-7195-4c1f-8442-b54453d72f6e",
+            "id": "33",
+            "name": "今月から、スタジオジブリ作品の場面写真の提供を開始します - スタジオジブリ｜STUDIO GHIBLI",
+            "type": "url",
+            "url": "http://www.ghibli.jp/info/013344/"
+         }, {
+            "date_added": "13245339412000000",
+            "guid": "fdae7258-e661-4f2a-a572-9e385c4045ba",
+            "id": "34",
+            "name": "Flac lossless Music Download",
+            "type": "url",
+            "url": "https://24flac.net/"
+         }, {
+            "date_added": "13245405421000000",
+            "guid": "2287a85e-4d40-4225-9158-7a9e5c1a167f",
+            "id": "35",
+            "name": "Google Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13245438195000000",
+            "guid": "c300951d-193e-4940-a5a4-5647341feca2",
+            "id": "36",
+            "name": "Link - Idee per la tv",
+            "type": "url",
+            "url": "https://www.linkideeperlatv.it/"
+         }, {
+            "date_added": "13245520063000000",
+            "guid": "9f5d17fb-6b1b-44e3-b36d-75303e4bb0c0",
+            "id": "37",
+            "name": "Dark Sky Maps",
+            "type": "url",
+            "url": "https://maps.darksky.net/@precipitation_rate,41.689,17.358,6"
+         }, {
+            "date_added": "13245577699000000",
+            "guid": "ae0778cb-be48-4871-9075-5f509ee8d580",
+            "id": "38",
+            "name": "Coviddi (Gang) - €l Pa$o - Deezer",
+            "type": "url",
+            "url": "https://www.deezer.com/en/"
+         }, {
+            "date_added": "13245848761000000",
+            "guid": "9307f31f-ea5d-41d0-a738-47c7f95fcc50",
+            "id": "39",
+            "name": "bigwheelblading.com – AGGRESSIVE / DISTANCE / DOWNHILL / FSK / MOUNTAIN / SLALOM / SPEED",
+            "type": "url",
+            "url": "https://bigwheelblading.com/"
+         }, {
+            "date_added": "13245851982000000",
+            "guid": "022bc1c0-bafd-4e7f-99b6-b2442585fb54",
+            "id": "40",
+            "name": "IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows",
+            "type": "url",
+            "url": "https://www.imdb.com/"
+         }, {
+            "date_added": "13246469953000000",
+            "guid": "72d7b11e-b0fe-4c8e-836f-5f7b0f1643e1",
+            "id": "41",
+            "name": "Practice typing by retyping ENTIRE classic novels | TypeLit.io",
+            "type": "url",
+            "url": "https://www.typelit.io/"
+         }, {
+            "children": [ {
+               "date_added": "13243187030000000",
+               "guid": "0cb7741b-9cfe-4b1e-87e2-1d609aaaddee",
+               "id": "43",
+               "name": "GitHub - ghacksuserjs/ghacks-user.js: An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting",
+               "type": "url",
+               "url": "https://github.com/ghacksuserjs/ghacks-user.js"
+            }, {
+               "date_added": "13243187017000000",
+               "guid": "4b5f5d2a-33ad-4edc-ab83-61790a39cefe",
+               "id": "44",
+               "name": "Groups · CalyxOS · GitLab",
+               "type": "url",
+               "url": "https://gitlab.com/calyxos"
+            }, {
+               "date_added": "13243189577000000",
+               "guid": "3b1de068-63fc-46af-bac6-5c270166fd6b",
+               "id": "45",
+               "name": "Riccardo.im - Sito ufficiale di Riccardo Palombo",
+               "type": "url",
+               "url": "https://riccardo.im/"
+            }, {
+               "date_added": "13243190596000000",
+               "guid": "cf5aa21c-d035-4b0d-ae19-cf2a0d40380f",
+               "id": "46",
+               "name": "Luke Smith's Webpage",
+               "type": "url",
+               "url": "https://lukesmith.xyz/"
+            }, {
+               "date_added": "13243251064000000",
+               "guid": "21e43b61-4146-4a20-ba25-db8e1e234cbb",
+               "id": "47",
+               "name": "Marco Vannucci Photos Official Site",
+               "type": "url",
+               "url": "file:///home/marco/documenti/sitoufficialeMarcoVannucci/index.html"
+            }, {
+               "date_added": "13243251972000000",
+               "guid": "1927c17b-ebd1-4246-9ab5-6a195043dc4d",
+               "id": "48",
+               "name": "Netlify App",
+               "type": "url",
+               "url": "https://app.netlify.com/"
+            }, {
+               "date_added": "13243266397000000",
+               "guid": "8d85e88e-5081-4c88-9d66-2276744885ce",
+               "id": "49",
+               "name": "Pocket",
+               "type": "url",
+               "url": "https://app.getpocket.com/"
+            }, {
+               "date_added": "13243266414000000",
+               "guid": "c059b9cd-c1c2-43a1-a030-aa19c43942b1",
+               "id": "50",
+               "name": "File - Nextcloud",
+               "type": "url",
+               "url": "https://nextcloud.marcovannucci.it:3333/apps/files/?dir=/&fileid=6"
+            }, {
+               "date_added": "13243503320000000",
+               "guid": "43e5da8f-9f87-4195-860f-b8db63f44573",
+               "id": "51",
+               "name": "Subsonic",
+               "type": "url",
+               "url": "https://subsonic.marcovannucci.it:3333/index.view"
+            }, {
+               "date_added": "13243267098000000",
+               "guid": "1849731e-857d-4bf2-a585-882ea568cda7",
+               "id": "52",
+               "name": "learn.univpm.it",
+               "type": "url",
+               "url": "https://learn.univpm.it/"
+            }, {
+               "date_added": "13243267862000000",
+               "guid": "66d4c810-444f-47b5-99d8-ab8312af3f7b",
+               "id": "53",
+               "name": "Home Studente, UNIVPM - Università Politecnica delle Marche",
+               "type": "url",
+               "url": "https://univpm.esse3.cineca.it/auth/studente/HomePageStudente.do"
+            }, {
+               "date_added": "13243272726000000",
+               "guid": "16b2b410-8172-4488-af28-b0b9472229fe",
+               "id": "54",
+               "name": "Build a Mosaic Portfolio Layout with CSS Grid - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=plRcoRqLriw"
+            }, {
+               "date_added": "13243282431000000",
+               "guid": "7fe1dbc3-e72b-41ff-b356-65210177eb35",
+               "id": "55",
+               "name": "Cloudinary Management Console - Dashboard",
+               "type": "url",
+               "url": "https://cloudinary.com/console/c-c5a510e0c68134abff0b378a52399d"
+            }, {
+               "date_added": "13243282512000000",
+               "guid": "febce220-374d-41a1-8569-4ac09f03687b",
+               "id": "56",
+               "name": "GTmetrix | Website Speed and Performance Optimization",
+               "type": "url",
+               "url": "https://gtmetrix.com/"
+            }, {
+               "date_added": "13243288367000000",
+               "guid": "c8c66ca0-095a-43d3-a3af-2bfc53f0f195",
+               "id": "57",
+               "name": "Website Speed Test - Image Analysis Tool by Cloudinary",
+               "type": "url",
+               "url": "https://webspeedtest.cloudinary.com/"
+            }, {
+               "date_added": "13243429221000000",
+               "guid": "6823fc13-bc5a-4f90-add9-40b2d6282a01",
+               "id": "58",
+               "name": "MIKIYA KOBAYASHI",
+               "type": "url",
+               "url": "http://www.mikiyakobayashi.com/"
+            }, {
+               "date_added": "13243429958000000",
+               "guid": "1d8837f5-d08b-4ad3-855b-c77044123bfb",
+               "id": "59",
+               "name": "Woven Magazine Home - Woven Magazine",
+               "type": "url",
+               "url": "https://wovenmagazine.com/"
+            }, {
+               "date_added": "13243439291000000",
+               "guid": "0c4fd61a-862a-45de-b536-2808a221fadc",
+               "id": "60",
+               "name": "Leo Cavazzana - Freeland Photographer",
+               "type": "url",
+               "url": "https://leocavazzana.com/en"
+            }, {
+               "date_added": "13243445675000000",
+               "guid": "081da135-8422-426c-b836-d40b586b2e50",
+               "id": "61",
+               "name": "Google Fonts",
+               "type": "url",
+               "url": "https://fonts.google.com/"
+            }, {
+               "date_added": "13243447456000000",
+               "guid": "72288150-ea63-458a-ac51-6159ff153e18",
+               "id": "62",
+               "name": "Awwwards - Website Awards - Best Web Design Trends",
+               "type": "url",
+               "url": "https://www.awwwards.com/"
+            }, {
+               "date_added": "13243459060000000",
+               "guid": "315b8ed6-b0a7-4086-a4fe-817a313dab17",
+               "id": "63",
+               "name": "NOWNESS",
+               "type": "url",
+               "url": "https://www.nowness.com/"
+            }, {
+               "date_added": "13243593849000000",
+               "guid": "746e1328-f00a-4570-9212-0366998fbb3e",
+               "id": "64",
+               "name": "Welcome to Linux From Scratch!",
+               "type": "url",
+               "url": "http://www.linuxfromscratch.org/index.html"
+            }, {
+               "date_added": "13243623727000000",
+               "guid": "fcdee355-e4fc-48b5-9a81-35a9190ada62",
+               "id": "65",
+               "name": "How to Build a Responsive Navigation Bar With Flexbox",
+               "type": "url",
+               "url": "https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-navigation-bar-with-flexbox--cms-33535"
+            }, {
+               "date_added": "13245437965000000",
+               "guid": "600b0851-e791-440d-8157-c0126ef00c1c",
+               "id": "66",
+               "name": "nucleo didattico | Dipartimento di Scienze della Vita e dell’Ambiente",
+               "type": "url",
+               "url": "https://www.disva.univpm.it/content/nucleo-didattico"
+            }, {
+               "date_added": "13245598213000000",
+               "guid": "655d76dc-328f-4a59-8f9b-57e54590edb1",
+               "id": "67",
+               "name": "Home",
+               "type": "url",
+               "url": "file:///home/marco/.config/qutebrowser/homepage/homepage.html"
+            } ],
+            "date_added": "13248442084057637",
+            "date_modified": "0",
+            "guid": "9d2c1ecf-cc65-4f2d-9c4c-c6b9b6689663",
+            "id": "42",
+            "name": "unfiled",
+            "type": "folder"
+         } ],
+         "date_added": "13248442064634941",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Segnalibri",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13248442064634946",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Altri Preferiti",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13248442064634950",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Preferiti su disp. mobili",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

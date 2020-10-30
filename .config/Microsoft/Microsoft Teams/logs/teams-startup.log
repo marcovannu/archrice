@@ -1,0 +1,868 @@
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:8:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:13:31: The style property GtkMenu:horizontal-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:14:29: The style property GtkMenu:vertical-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:15:25: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:16:33: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:17:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:18:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.858: Theme parsing error: gtk.css:28:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.859: Theme parsing error: gtk.css:34:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.859: Theme parsing error: gtk.css:35:19: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.859: Theme parsing error: gtk.css:40:29: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.859: Theme parsing error: gtk.css:46:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.859: Theme parsing error: gtk.css:69:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.860: Theme parsing error: gtk.css:122:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.860: Theme parsing error: gtk.css:133:54: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.860: Theme parsing error: gtk.css:145:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:153:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:155:20: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:159:71: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:175:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:178:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:186:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.861: Theme parsing error: gtk.css:189:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:197:74: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:204:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:205:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:207:75: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:244:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.862: Theme parsing error: gtk.css:256:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:256:62: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:260:21: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:264:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:266:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:266:51: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:271:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:271:64: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.863: Theme parsing error: gtk.css:288:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:308:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:322:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:322:76: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:359:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:359:98: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.864: Theme parsing error: gtk.css:364:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.865: Theme parsing error: gtk.css:368:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.865: Theme parsing error: gtk.css:394:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.865: Theme parsing error: gtk.css:394:102: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.865: Theme parsing error: gtk.css:399:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.865: Theme parsing error: gtk.css:403:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.866: Theme parsing error: gtk.css:472:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.866: Theme parsing error: gtk.css:476:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.866: Theme parsing error: gtk.css:478:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.866: Theme parsing error: gtk.css:478:113: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.866: Theme parsing error: gtk.css:483:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.867: Theme parsing error: gtk.css:483:126: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.868: Theme parsing error: gtk.css:621:140: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.869: Theme parsing error: gtk.css:624:803: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.869: Theme parsing error: gtk.css:624:891: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.869: Theme parsing error: gtk.css:624:1465: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.869: Theme parsing error: gtk.css:624:1532: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.869: Theme parsing error: gtk.css:628:98: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.870: Theme parsing error: gtk.css:677:90: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.870: Theme parsing error: gtk.css:677:144: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.871: Theme parsing error: gtk.css:678:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.871: Theme parsing error: gtk.css:679:58: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.871: Theme parsing error: gtk.css:727:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:747:56: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:747:119: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:751:58: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:751:132: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:768:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:768:117: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:772:57: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.872: Theme parsing error: gtk.css:772:130: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:778:359: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:778:422: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:778:651: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:781:352: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:781:414: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:781:639: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.873: Theme parsing error: gtk.css:797:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.874: Theme parsing error: gtk.css:800:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.874: Theme parsing error: gtk.css:901:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.875: Theme parsing error: gtk.css:901:109: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.875: Theme parsing error: gtk.css:905:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.875: Theme parsing error: gtk.css:905:109: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.875: Theme parsing error: gtk.css:905:174: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.875: Theme parsing error: gtk.css:905:238: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:963:30: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:964:30: The style property GtkWidget:separator-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:975:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:984:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:988:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:988:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.876: Theme parsing error: gtk.css:990:74: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1001:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1004:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1011:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1014:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1038:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.877: Theme parsing error: gtk.css:1038:71: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1042:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1042:84: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1044:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1044:78: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1044:123: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1044:164: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1049:626: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.878: Theme parsing error: gtk.css:1049:699: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.879: Theme parsing error: gtk.css:1068:93: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.879: Theme parsing error: gtk.css:1068:181: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.879: Theme parsing error: gtk.css:1068:253: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.879: Theme parsing error: gtk.css:1068:320: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.881: Theme parsing error: gtk.css:1140:60: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.881: Theme parsing error: gtk.css:1140:115: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.881: Theme parsing error: gtk.css:1140:185: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1140:250: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1140:305: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1140:355: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:62: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:128: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:209: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:285: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:351: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.882: Theme parsing error: gtk.css:1144:412: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:62: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:119: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:191: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:258: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:315: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1174:367: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1178:64: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1178:132: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.883: Theme parsing error: gtk.css:1178:215: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1178:293: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1178:361: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1178:424: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1189:56: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1189:107: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1197:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1197:95: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.884: Theme parsing error: gtk.css:1202:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1202:77: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1208:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1215:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1217:65: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1217:125: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.885: Theme parsing error: gtk.css:1219:74: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1244:69: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1245:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1245:83: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1246:71: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1249:54: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1252:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1255:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1257:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1257:83: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.886: Theme parsing error: gtk.css:1258:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.887: Theme parsing error: gtk.css:1293:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.887: Theme parsing error: gtk.css:1295:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.887: Theme parsing error: gtk.css:1317:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.887: Theme parsing error: gtk.css:1321:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.887: Theme parsing error: gtk.css:1324:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.888: Theme parsing error: gtk.css:1358:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.888: Theme parsing error: gtk.css:1376:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.888: Theme parsing error: gtk.css:1395:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.888: Theme parsing error: gtk.css:1412:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1457:28: The style property GtkNotebook:initial-gap is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1458:30: The style property GtkNotebook:arrow-spacing is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1459:30: The style property GtkNotebook:tab-curvature is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1460:28: The style property GtkNotebook:tab-overlap is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1461:28: The style property GtkNotebook:has-tab-gap is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1462:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.889: Theme parsing error: gtk.css:1463:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1583:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1587:26: The style property GtkRange:slider-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1588:27: The style property GtkRange:trough-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1591:35: The style property GtkScrollbar:min-slider-length is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1592:29: The style property GtkRange:stepper-spacing is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.891: Theme parsing error: gtk.css:1593:35: The style property GtkRange:trough-under-steppers is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.892: Theme parsing error: gtk.css:1598:28: The style property GtkRange:slider-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.892: Theme parsing error: gtk.css:1622:31: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.892: Theme parsing error: gtk.css:1624:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.892: Theme parsing error: gtk.css:1663:9: Not using units is deprecated. Assuming 'px'.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.892: Theme parsing error: gtk.css:1663:9: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.893: Theme parsing error: gtk.css:1703:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.893: Theme parsing error: gtk.css:1706:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.893: Theme parsing error: gtk.css:1707:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.893: Theme parsing error: gtk.css:1708:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.893: Theme parsing error: gtk.css:1711:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1712:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1715:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1718:57: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1719:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1720:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1723:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1724:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.894: Theme parsing error: gtk.css:1740:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1743:109: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1744:61: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1747:33: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1748:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1749:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1750:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1753:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1756:110: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1757:62: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1760:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.895: Theme parsing error: gtk.css:1761:35: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1762:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1763:30: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1766:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1766:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1769:110: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1769:122: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1770:62: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1770:74: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1773:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1773:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.896: Theme parsing error: gtk.css:1774:35: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1774:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1775:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1775:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1776:30: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1776:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1792:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1795:117: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1796:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1799:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.897: Theme parsing error: gtk.css:1800:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1801:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1802:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1818:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1821:109: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1822:61: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1825:33: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1826:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1827:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.898: Theme parsing error: gtk.css:1828:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1831:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1834:110: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1835:62: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1838:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1839:35: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1840:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1841:30: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1844:19: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1844:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1847:110: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1847:122: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.899: Theme parsing error: gtk.css:1848:62: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1848:74: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1851:34: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1851:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1852:35: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1852:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1853:38: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1853:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1854:30: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1854:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.900: Theme parsing error: gtk.css:1870:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1873:117: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1874:69: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1877:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1878:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1879:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1880:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1894:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1894:80: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1894:127: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.901: Theme parsing error: gtk.css:1894:140: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1894:180: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1894:220: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1894:267: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1894:280: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1899:26: The style property GtkRange:slider-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1900:27: The style property GtkRange:trough-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1902:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1911:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1916:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1918:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1919:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1922:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.902: Theme parsing error: gtk.css:1925:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1928:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1930:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1935:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1940:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1945:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1947:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1948:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1949:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1950:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1955:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1957:58: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.903: Theme parsing error: gtk.css:1958:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1959:78: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1960:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1961:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1963:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1967:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1971:69: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1975:60: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1976:65: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1977:62: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1978:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1979:62: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.904: Theme parsing error: gtk.css:1980:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.905: Theme parsing error: gtk.css:1981:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.905: Theme parsing error: gtk.css:1982:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.905: Theme parsing error: gtk.css:1983:71: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.905: Theme parsing error: gtk.css:2075:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.905: Theme parsing error: gtk.css:2097:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2100:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2142:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2143:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2177:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2177:72: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.906: Theme parsing error: gtk.css:2181:26: The :inconsistent pseudo-class is deprecated. Use :indeterminate instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.907: Theme parsing error: gtk.css:2201:221: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.907: Theme parsing error: gtk.css:2252:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.907: Theme parsing error: gtk.css:2332:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2332:72: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2336:42: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2336:81: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2336:128: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2336:168: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2380:71: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2425:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.908: Theme parsing error: gtk.css:2443:8: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.909: Theme parsing error: gtk.css:2443:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(teams:522633): Gtk-WARNING **: 08:26:09.910: Theme parsing error: gtk.css:2754:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2788:100: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2806:48: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2808:50: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2860:30: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2861:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2892:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.911: Theme parsing error: gtk.css:2902:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2908:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2909:90: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2910:91: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2912:74: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2920:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:2928:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.912: Theme parsing error: gtk.css:3036:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3063:69: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3109:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3135:30: The style property GtkButton:image-spacing is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3136:29: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3162:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3169:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3170:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3172:74: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.913: Theme parsing error: gtk.css:3180:52: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3190:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3199:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3215:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3218:82: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3236:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3241:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3250:68: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3279:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3287:71: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.914: Theme parsing error: gtk.css:3291:54: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3302:54: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3348:30: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3352:29: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3356:23: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3357:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3438:26: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.915: Theme parsing error: gtk.css:3442:26: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3456:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3459:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3470:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3492:8: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3492:20: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3512:54: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3523:8: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3523:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3526:8: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3526:28: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3529:8: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3529:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3546:12: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3546:12: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.916: Theme parsing error: gtk.css:3552:14: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3552:14: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3553:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3555:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3558:16: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3558:16: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3563:14: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3563:14: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3591:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3595:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3624:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3631:12: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3633:16: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.917: Theme parsing error: gtk.css:3633:16: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.918: Theme parsing error: gtk.css:3679:12: not a number
+
+(teams:522633): Gtk-WARNING **: 08:26:09.918: Theme parsing error: gtk.css:3679:12: Expected a string.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.918: Theme parsing error: gtk.css:3763:92: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.918: Theme parsing error: gtk.css:3767:43: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.919: Theme parsing error: gtk.css:3950:112: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3951:64: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3951:120: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3960:72: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3970:56: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3971:111: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3972:63: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3974:73: Using one color stop with linear-gradient() is deprecated.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3998:75: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3999:69: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:3999:125: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:4000:55: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.920: Theme parsing error: gtk.css:4000:114: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.921: Theme parsing error: gtk.css:4002:78: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.921: Theme parsing error: gtk.css:4003:72: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.921: Theme parsing error: gtk.css:4003:124: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.921: Theme parsing error: gtk.css:4004:58: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(teams:522633): Gtk-WARNING **: 08:26:09.921: Theme parsing error: gtk.css:4004:113: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+(node:522633) UnhandledPromiseRejectionWarning: undefined
+(node:522633) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:522633) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:522633) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added. Use emitter.setMaxListeners() to increase limit
+(node:522633) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'logInfoToFile' of undefined
+    at EventEmitter.showPreviewInToastsEnabledRequestHandler (/usr/share/teams/resources/app.asar/lib/notifications/NotificationEventManager.js:133:29)
+    at EventEmitter.emit (events.js:195:7)
+    at EventingService.emit (/usr/share/teams/resources/app.asar/lib/eventingService.js:9:28)
+    at SettingsService.compareSettingsData (/usr/share/teams/resources/app.asar/lib/settingsService.js:624:43)
+    at SettingsService.processSettingsData (/usr/share/teams/resources/app.asar/lib/settingsService.js:477:18)
+    at SettingsService.<anonymous> (/usr/share/teams/resources/app.asar/lib/settingsService.js:422:18)
+    at Generator.next (<anonymous>)
+    at /usr/share/teams/resources/app.asar/lib/settingsService.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/usr/share/teams/resources/app.asar/lib/settingsService.js:4:12)
+(node:522633) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:522633) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'logInfoToFile' of undefined
+    at EventEmitter.showPreviewInToastsEnabledRequestHandler (/usr/share/teams/resources/app.asar/lib/notifications/NotificationEventManager.js:133:29)
+    at EventEmitter.emit (events.js:195:7)
+    at EventingService.emit (/usr/share/teams/resources/app.asar/lib/eventingService.js:9:28)
+    at SettingsService.compareSettingsData (/usr/share/teams/resources/app.asar/lib/settingsService.js:624:43)
+    at SettingsService.processSettingsData (/usr/share/teams/resources/app.asar/lib/settingsService.js:477:18)
+    at SettingsService.<anonymous> (/usr/share/teams/resources/app.asar/lib/settingsService.js:422:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/share/teams/resources/app.asar/lib/settingsService.js:5:58)
+(node:522633) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)

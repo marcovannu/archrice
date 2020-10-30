@@ -1,0 +1,37 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d"
+
+# Verbosity and settings that you pretty much just always are going to want.
+	alias cp="cp -iv"
+	alias mv="mv -iv"
+	alias rm="rm -vI"
+	alias mkd="mkdir -pv"
+	alias yt="youtube-dl --add-metadata -i"
+	alias yta="yt -x -f bestaudio/best"
+	alias ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+	alias ls="ls -hN --color=auto --group-directories-first"
+	alias grep="grep --color=auto"
+	alias diff="diff --color=auto"
+	alias ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them.
+	alias ka="killall"
+	alias g="git"
+	alias trem="transmission-remote"
+	alias YT="youtube-viewer"
+	alias sdn="sudo shutdown -h now"
+	alias f="$FILE"
+	alias e="$EDITOR"
+	alias v="$EDITOR"
+	alias scim="sc-im"
+	alias setbg="~/.local/bin/setbg"
+	alias fullclean="make clean && rm -f config.h && git reset --hard origin/master"
+	alias p="sudo pacman"
+	alias xi="sudo xbps-install"
+	alias xr="sudo xbps-remove -R"
+	alias xq="xbps-query"
+	alias z="zathura"

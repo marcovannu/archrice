@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/marco/musica/Tame Impala'
+let g:netrw_dirhist_2='/home/marco/.local/bin/cron'
+let g:netrw_dirhist_1='/home/marco/.gnupg'
+let g:netrw_dirhist_0='/home/marco/.local/bin/statusbar'
+let g:netrw_dirhist_9='/home/marco/.config/nnn/plugins'
+let g:netrw_dirhist_8='/home/marco/download/PHP Contact Forms/Demo_Legend_Form'
+let g:netrw_dirhist_7='/home/marco/.config/qutebrowser/bookmarks'
+let g:netrw_dirhist_6='/home/marco/.config/slock'
+let g:netrw_dirhist_5='/home/marco/.config/ncmpcpp'
+let g:netrw_dirhist_4='/usr/share/vim/vimfiles/ftplugin'

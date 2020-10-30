@@ -1,0 +1,36 @@
+2020/10/29-12:02:35.896 619 Reusing MANIFEST /home/marco/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/29-12:02:35.897 619 Recovering log #3
+2020/10/29-12:02:35.898 619 Reusing old log /home/marco/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2020/10/29-14:08:06.707 c251 Level-0 table #5: started
+2020/10/29-14:08:06.716 c251 Level-0 table #5: 21392 bytes OK
+2020/10/29-14:08:06.725 c251 Delete type=0 #3
+2020/10/29-15:02:05.090 13795 Level-0 table #7: started
+2020/10/29-15:02:05.101 13795 Level-0 table #7: 51072 bytes OK
+2020/10/29-15:02:05.110 13795 Delete type=0 #4
+2020/10/29-15:02:46.741 137b4 Level-0 table #9: started
+2020/10/29-15:02:46.749 137b4 Level-0 table #9: 60246 bytes OK
+2020/10/29-15:02:46.758 137b4 Delete type=0 #6
+2020/10/29-15:04:14.280 13a9b Level-0 table #11: started
+2020/10/29-15:04:14.292 13a9b Level-0 table #11: 60246 bytes OK
+2020/10/29-15:04:14.301 13a9b Delete type=0 #8
+2020/10/29-15:06:21.878 13dcf Level-0 table #13: started
+2020/10/29-15:06:21.891 13dcf Level-0 table #13: 84176 bytes OK
+2020/10/29-15:06:21.900 13dcf Delete type=0 #10
+2020/10/29-15:09:03.280 13dcf Level-0 table #15: started
+2020/10/29-15:09:03.291 13dcf Level-0 table #15: 84176 bytes OK
+2020/10/29-15:09:03.299 13dcf Delete type=0 #12
+2020/10/29-15:09:03.300 14128 Compacting 4@0 + 1@1 files
+2020/10/29-15:09:03.312 14128 Generated table #16@0: 6 keys, 86341 bytes
+2020/10/29-15:09:03.312 14128 Compacted 4@0 + 1@1 files => 86341 bytes
+2020/10/29-15:09:03.320 14128 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/29-15:09:03.321 14128 Delete type=2 #7
+2020/10/29-15:09:03.321 14128 Delete type=2 #15
+2020/10/29-15:09:03.321 14128 Delete type=2 #11
+2020/10/29-15:09:03.321 14128 Delete type=2 #9
+2020/10/29-15:09:03.321 14128 Delete type=2 #13
+2020/10/30-09:08:32.015 63b2c Level-0 table #18: started
+2020/10/30-09:08:32.030 63b2c Level-0 table #18: 91919 bytes OK
+2020/10/30-09:08:32.040 63b2c Delete type=0 #14
+2020/10/30-09:37:44.877 67319 Level-0 table #20: started
+2020/10/30-09:37:44.887 67319 Level-0 table #20: 178326 bytes OK
+2020/10/30-09:37:44.896 67319 Delete type=0 #17
