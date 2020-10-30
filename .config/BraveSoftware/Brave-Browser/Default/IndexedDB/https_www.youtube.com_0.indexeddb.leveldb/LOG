@@ -1,5 +1,0 @@
-2020/10/29-12:06:02.247 c7e Reusing MANIFEST /home/marco/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/29-12:06:44.918 ebb Level-0 table #5: started
-2020/10/29-12:06:44.921 ebb Level-0 table #5: 3400 bytes OK
-2020/10/29-12:06:44.924 ebb Delete type=0 #3
-2020/10/29-12:06:44.924 ebb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
