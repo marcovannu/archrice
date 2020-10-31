@@ -8,8 +8,8 @@ remap &
 dunst &
 systemctl --user import-envoironment DISPLAY
 unclutter -b &
-devmon --no-gui &
 #picom &
+xcompmgr &
 dwmblocks &
 mpd ~/.config/mpd/mpd.conf
 setbg &
