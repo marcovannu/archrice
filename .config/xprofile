@@ -9,7 +9,6 @@ dunst &
 systemctl --user import-envoironment DISPLAY
 unclutter -b &
 #picom &
-xcompmgr &
 dwmblocks &
 mpd ~/.config/mpd/mpd.conf
 setbg &
