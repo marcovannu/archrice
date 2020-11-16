@@ -6,7 +6,7 @@ image/*; sxiv "%s"
 
 # text
 text/html; open -a qutebrowser "%s"
-text/plain; vim "%s"
+text/plain; nvim "%s"
 
 # fallback to vim
 text/*; nvim "%s"
