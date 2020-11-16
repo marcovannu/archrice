@@ -37,7 +37,12 @@ c.backend = 'webengine'
 # Type: Int
 c.auto_save.interval = 30000
 
-# Always restore open sites when qutebrowser is reopened.
+# Always restore open sites when qutebrowser is reopened. Without this
+# option set, `:wq` (`:quit --save`) needs to be used to save open tabs
+# (and restore them), while quitting qutebrowser in any other way will
+# not save/restore the session. By default, this will save to the
+# session which was last loaded. This behavior can be customized via the
+# `session.default_name` setting.
 # Type: Bool
 c.auto_save.session = False
 
@@ -95,7 +100,7 @@ config.set('content.cookies.accept', 'all', 'devtools://*')
 # Store cookies. Note this option needs a restart with QtWebEngine on Qt
 # < 5.9.
 # Type: Bool
-c.content.cookies.store = True
+c.content.cookies.store = False
 
 # Allow websites to request geolocations.
 # Type: BoolAsk
@@ -141,54 +146,6 @@ c.content.headers.user_agent = 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/{webki
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{webkit_version} (KHTML, like Gecko) {upstream_browser_key}/{upstream_browser_version} Safari/{webkit_version}', 'https://web.whatsapp.com/')
-
-# User agent to send.  The following placeholders are defined:  *
-# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
-# The underlying WebKit version (set to a fixed value   with
-# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
-# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
-# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
-# QtWebEngine. * `{upstream_browser_version}`: The corresponding
-# Safari/Chrome version. * `{qutebrowser_version}`: The currently
-# running qutebrowser version.  The default value is equal to the
-# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
-# read from JavaScript is always the global value. With QtWebEngine
-# between 5.12 and 5.14 (inclusive), changing the value exposed to
-# JavaScript requires a restart.
-# Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://accounts.google.com/*')
-
-# User agent to send.  The following placeholders are defined:  *
-# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
-# The underlying WebKit version (set to a fixed value   with
-# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
-# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
-# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
-# QtWebEngine. * `{upstream_browser_version}`: The corresponding
-# Safari/Chrome version. * `{qutebrowser_version}`: The currently
-# running qutebrowser version.  The default value is equal to the
-# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
-# read from JavaScript is always the global value. With QtWebEngine
-# between 5.12 and 5.14 (inclusive), changing the value exposed to
-# JavaScript requires a restart.
-# Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
-
-# User agent to send.  The following placeholders are defined:  *
-# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
-# The underlying WebKit version (set to a fixed value   with
-# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
-# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
-# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
-# QtWebEngine. * `{upstream_browser_version}`: The corresponding
-# Safari/Chrome version. * `{qutebrowser_version}`: The currently
-# running qutebrowser version.  The default value is equal to the
-# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
-# read from JavaScript is always the global value. With QtWebEngine
-# between 5.12 and 5.14 (inclusive), changing the value exposed to
-# JavaScript requires a restart.
-# Type: FormatString
 config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://docs.google.com/*')
 
 # User agent to send.  The following placeholders are defined:  *
@@ -206,6 +163,54 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko
 # JavaScript requires a restart.
 # Type: FormatString
 config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://drive.google.com/*')
+
+# User agent to send.  The following placeholders are defined:  *
+# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
+# The underlying WebKit version (set to a fixed value   with
+# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
+# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
+# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
+# QtWebEngine. * `{upstream_browser_version}`: The corresponding
+# Safari/Chrome version. * `{qutebrowser_version}`: The currently
+# running qutebrowser version.  The default value is equal to the
+# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
+# read from JavaScript is always the global value. With QtWebEngine
+# between 5.12 and 5.14 (inclusive), changing the value exposed to
+# JavaScript requires a restart.
+# Type: FormatString
+config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{webkit_version} (KHTML, like Gecko) {upstream_browser_key}/{upstream_browser_version} Safari/{webkit_version}', 'https://web.whatsapp.com/')
+
+# User agent to send.  The following placeholders are defined:  *
+# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
+# The underlying WebKit version (set to a fixed value   with
+# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
+# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
+# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
+# QtWebEngine. * `{upstream_browser_version}`: The corresponding
+# Safari/Chrome version. * `{qutebrowser_version}`: The currently
+# running qutebrowser version.  The default value is equal to the
+# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
+# read from JavaScript is always the global value. With QtWebEngine
+# between 5.12 and 5.14 (inclusive), changing the value exposed to
+# JavaScript requires a restart.
+# Type: FormatString
+config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{webkit_version} (KHTML, like Gecko) {upstream_browser_key}/{upstream_browser_version} Safari/{webkit_version} Edg/{upstream_browser_version}', 'https://accounts.google.com/*')
+
+# User agent to send.  The following placeholders are defined:  *
+# `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
+# The underlying WebKit version (set to a fixed value   with
+# QtWebEngine). * `{qt_key}`: "Qt" for QtWebKit, "QtWebEngine" for
+# QtWebEngine. * `{qt_version}`: The underlying Qt version. *
+# `{upstream_browser_key}`: "Version" for QtWebKit, "Chrome" for
+# QtWebEngine. * `{upstream_browser_version}`: The corresponding
+# Safari/Chrome version. * `{qutebrowser_version}`: The currently
+# running qutebrowser version.  The default value is equal to the
+# unchanged user agent of QtWebKit/QtWebEngine.  Note that the value
+# read from JavaScript is always the global value. With QtWebEngine
+# between 5.12 and 5.14 (inclusive), changing the value exposed to
+# JavaScript requires a restart.
+# Type: FormatString
+config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
 
 # Load images automatically in web pages.
 # Type: Bool
@@ -290,7 +295,7 @@ config.set('content.register_protocol_handler', True, 'https://mail.google.com?e
 
 # List of user stylesheet filenames to use.
 # Type: List of File, or File
-c.content.user_stylesheets = []
+c.content.user_stylesheets = '/home/marco/.config/qutebrowser/styles/gruvbox.css'
 
 # Number of commands to save in the command history. 0: no history / -1:
 # unlimited
@@ -311,7 +316,10 @@ c.completion.quick = False
 c.completion.scrollbar.padding = 1
 
 # Format of timestamps (e.g. for the history completion). See
-# https://sqlite.org/lang_datefunc.html for allowed substitutions.
+# https://sqlite.org/lang_datefunc.html and
+# https://docs.python.org/3/library/datetime.html#strftime-strptime-
+# behavior for allowed substitutions, qutebrowser uses both sqlite and
+# Python to format its timestamps.
 # Type: String
 c.completion.timestamp_format = '%d-%m-%Y'
 
@@ -471,14 +479,15 @@ c.tabs.title.alignment = 'center'
 # Format to use for the tab title. The following placeholders are
 # defined:  * `{perc}`: Percentage as a string like `[10%]`. *
 # `{perc_raw}`: Raw percentage, e.g. `10`. * `{current_title}`: Title of
-# the current web page. * `{title_sep}`: The string ` - ` if a title is
-# set, empty otherwise. * `{index}`: Index of this tab. * `{id}`:
-# Internal tab ID of this tab. * `{scroll_pos}`: Page scroll position. *
-# `{host}`: Host of the current web page. * `{backend}`: Either
-# ''webkit'' or ''webengine'' * `{private}`: Indicates when private mode
-# is enabled. * `{current_url}`: URL of the current web page. *
-# `{protocol}`: Protocol (http/https/...) of the current web page. *
-# `{audio}`: Indicator for audio/mute status.
+# the current web page. * `{title_sep}`: The string `" - "` if a title
+# is set, empty otherwise. * `{index}`: Index of this tab. *
+# `{aligned_index}`: Index of this tab padded with spaces to have the
+# same   width. * `{id}`: Internal tab ID of this tab. * `{scroll_pos}`:
+# Page scroll position. * `{host}`: Host of the current web page. *
+# `{backend}`: Either `webkit` or `webengine` * `{private}`: Indicates
+# when private mode is enabled. * `{current_url}`: URL of the current
+# web page. * `{protocol}`: Protocol (http/https/...) of the current web
+# page. * `{audio}`: Indicator for audio/mute status.
 # Type: FormatString
 c.tabs.title.format = '{audio}{private}{current_title}'
 
@@ -893,10 +902,11 @@ c.colors.webpage.darkmode.algorithm = 'lightness-cielab'
 # Type: Float
 c.colors.webpage.darkmode.contrast = 0.0
 
-# Which images to apply dark mode to. WARNING: On Qt 5.15.0, this
-# setting can cause frequent renderer process crashes due to a
+# Which images to apply dark mode to. WARNING: With QtWebengine 5.15.0,
+# this setting can cause frequent renderer process crashes due to a
 # https://codereview.qt-project.org/c/qt/qtwebengine-
-# chromium/+/304211[bug in Qt].
+# chromium/+/304211[bug in Qt]. Thus, the 'smart' setting is ignored and
+# treated like 'never' in that case.
 # Type: String
 # Valid values:
 #   - always: Apply dark mode filter to all images.
