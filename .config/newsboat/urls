@@ -7,13 +7,11 @@ https://bigwheelblading.com/feed/
 https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
 https://lyndeno.ca/feed.xml
 https://lukesmith.xyz/rss.xml linux tech
-http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351563?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20182
 https://riccardo.im/index.xml tech
 --------MUSIC------------
 https://pitchfork.com/rss/reviews/best/albums/ music
 -------GITHUB------------
 https://github.com/lukesmithxyz/voidrice/commits/master.atom "~Luke Smith Voidrice" github
-https://github.com/jarun/nnn/commits/master.atom "~nnn file explorer" github
 -------YOUTUBE-----------
 "query:Youtube New:tags # \"youtube\"" youtube
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -24,8 +22,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCp0VcHDRMfof2wCod5vF6rQ "~B
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZ2sNEOiU8b1MmJ1Z7a_CBA "~BladeLife_Luke" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9gp_qXnXNKx75bnvZrqesg "~Bladerz" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson" youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCw3T7SvPYDHCkdMhC0NcKsw "~CKSPACE" youtube minimalism
-https://www.youtube.com/feeds/videos.xml?channel_id=UCf8PQCxEng0QKXl5pPJydBw "~Deez Skates" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCuUXlTPvHiBTLcTnR1H1pjw "~Dom West" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCS-neBc8xR0pbW6UI-W2pDA "~Escape on skate" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCMKzX5e98bUQBJ2mfhehrPw "~EXPRESS YOUTUBE" youtube rollerblading
@@ -34,11 +30,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC_m8cn_4ekiNv2uG_ZuPTfQ "~k
 https://www.youtube.com/feeds/videos.xml?channel_id=UC497r18hyShx1ffsYcgK_kg "~Kuma Films" youtube movie
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt – In a Nutshell" youtube movie
 https://www.youtube.com/feeds/videos.xml?channel_id=UC161MHoBdelWj1ppgUNABAA "~Linked Media" youtube
-https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "~Luke Smith" peertube tech
-https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=982 "~Luke Smith documentaries" peertube movie
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "~Luke Smith" youtube peertube tech
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=982 "~Luke Smith documentaries" youtube peertube movie
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw" youtube tech
-https://vimeo.com/mtorres983/videos/rss "~Mike Torres" vimeo rollerblading
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYzMdQa5aD6dnKHLdBxDMkw "~Morten Hilmer" youtube photo movie
+https://vimeo.com/mtorres983/videos/rss "~Mike Torres" youtube vimeo rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGTDZcpOPYLYfUAGz4YdpXg "~Mushroom Blading" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCaZ_hY8LfwOMR7xoh0mFrXg "~Nazar On Wheels" youtube rollerblading
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTu40b6bDC8xnpwvC_buzag "~Nick Lomax" youtube rollerblading
