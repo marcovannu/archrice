@@ -10,8 +10,8 @@
 #   qute://help/configuring.html
 #   qute://help/settings.html
 
-# Uncomment this to still load settings configured via autoconfig.yml
-# config.load_autoconfig()
+# Change the argument to True to still load settings configured via autoconfig.yml
+config.load_autoconfig(False)
 
 # Aliases for commands. The keys of the given dictionary are the
 # aliases, while the values are the commands they map to.
@@ -19,17 +19,25 @@
 c.aliases = {'q': 'close', 'qa': 'quit', 'w': 'session-save', 'wq': 'quit --save', 'wqa': 'quit --save'}
 
 # Backend to use to display websites. qutebrowser supports two different
-# web rendering engines / backends, QtWebKit and QtWebEngine. QtWebKit
-# was discontinued by the Qt project with Qt 5.6, but picked up as a
-# well maintained fork: https://github.com/annulen/webkit/wiki -
-# qutebrowser only supports the fork. QtWebEngine is Qt's official
-# successor to QtWebKit. It's slightly more resource hungry than
-# QtWebKit and has a couple of missing features in qutebrowser, but is
-# generally the preferred choice.
+# web rendering engines / backends, QtWebEngine and QtWebKit (not
+# recommended). QtWebEngine is Qt's official successor to QtWebKit, and
+# both the default/recommended backend. It's based on a stripped-down
+# Chromium and regularly updated with security fixes and new features by
+# the Qt project: https://wiki.qt.io/QtWebEngine QtWebKit was
+# qutebrowser's original backend when the project was started. However,
+# support for QtWebKit was discontinued by the Qt project with Qt 5.6 in
+# 2016. The development of QtWebKit was picked up in an official fork:
+# https://github.com/qtwebkit/qtwebkit - however, the project seems to
+# have stalled again. The latest release (5.212.0 Alpha 4) from March
+# 2020 is based on a WebKit version from 2016, with many known security
+# vulnerabilities. Additionally, there is no process isolation and
+# sandboxing. Due to all those issues, while support for QtWebKit is
+# still available in qutebrowser for now, using it is strongly
+# discouraged.
 # Type: String
 # Valid values:
-#   - webengine: Use QtWebEngine (based on Chromium).
-#   - webkit: Use QtWebKit (based on WebKit, similar to Safari).
+#   - webengine: Use QtWebEngine (based on Chromium - recommended).
+#   - webkit: Use QtWebKit (based on WebKit, similar to Safari - many known security issues!).
 c.backend = 'webengine'
 
 # Time interval (in milliseconds) between auto-saves of
@@ -97,8 +105,7 @@ config.set('content.cookies.accept', 'all', 'chrome-devtools://*')
 #   - never: Don't accept cookies at all.
 config.set('content.cookies.accept', 'all', 'devtools://*')
 
-# Store cookies. Note this option needs a restart with QtWebEngine on Qt
-# < 5.9.
+# Store cookies.
 # Type: Bool
 c.content.cookies.store = False
 
@@ -211,6 +218,19 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{w
 # JavaScript requires a restart.
 # Type: FormatString
 config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
+
+# Which method of blocking ads should be used.  Support for Adblock Plus
+# (ABP) syntax blocklists using Brave's Rust library requires the
+# `adblock` Python package to be installed, which is an optional
+# dependency of qutebrowser. It is required when either `adblock` or
+# `both` are selected.
+# Type: String
+# Valid values:
+#   - auto: Use Brave's ABP-style adblocker if available, host blocking otherwise
+#   - adblock: Use Brave's ABP-style adblocker
+#   - hosts: Use hosts blocking
+#   - both: Use both hosts blocking and Brave's ABP-style adblocker
+c.content.blocking.method = 'both'
 
 # Load images automatically in web pages.
 # Type: Bool
@@ -348,6 +368,7 @@ c.downloads.location.directory = '/home/marco/download/'
 #   - quickmarks
 #   - bookmarks
 #   - history
+#   - filesystem
 c.completion.open_categories = ['quickmarks', 'bookmarks', 'history', 'searchengines']
 
 # Where to show the downloaded files.
@@ -357,10 +378,10 @@ c.completion.open_categories = ['quickmarks', 'bookmarks', 'history', 'searcheng
 #   - bottom
 c.downloads.position = 'bottom'
 
-# Editor (and arguments) to use for the `open-editor` command. The
-# following placeholders are defined:  * `{file}`: Filename of the file
-# to be edited. * `{line}`: Line in which the caret is found in the
-# text. * `{column}`: Column in which the caret is found in the text. *
+# Editor (and arguments) to use for the `edit-*` commands. The following
+# placeholders are defined:  * `{file}`: Filename of the file to be
+# edited. * `{line}`: Line in which the caret is found in the text. *
+# `{column}`: Column in which the caret is found in the text. *
 # `{line0}`: Same as `{line}`, but starting from index 0. * `{column0}`:
 # Same as `{column}`, but starting from index 0.
 # Type: ShellCommand
@@ -513,13 +534,14 @@ c.url.default_page = '~/.config/qutebrowser/homepage/homepage.html'
 # * `{quoted}` quotes all characters (for `slash/and&amp` this
 # placeholder   expands to `slash%2Fand%26amp`). * `{unquoted}` quotes
 # nothing (for `slash/and&amp` this placeholder   expands to
-# `slash/and&amp`).  The search engine named `DEFAULT` is used when
+# `slash/and&amp`). * `{0}` means the same as `{}`, but can be used
+# multiple times.  The search engine named `DEFAULT` is used when
 # `url.auto_search` is turned on and something else than a URL was
 # entered to be opened. Other search engines can be used by prepending
 # the search engine name to the search term, e.g. `:open google
 # qutebrowser`.
 # Type: Dict
-c.url.searchengines = {'DEFAULT': 'https://searx.sunless.cloud/?q={}', 'az': 'https://www.amazon.it/s?k={}&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91', 'wa': 'https://wiki.archlinux.org/?search={}', 'wk': 'https://it.wikipedia.org/wiki/{}', 'yu': 'https://www.youtube.com/results?search_query={}'}
+c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}', 'az': 'https://www.amazon.it/s?k={}&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91', 'wa': 'https://wiki.archlinux.org/?search={}', 'wk': 'https://it.wikipedia.org/wiki/{}', 'yu': 'https://www.youtube.com/results?search_query={}'}
 
 # Page(s) to open at the start.
 # Type: List of FuzzyUrl, or FuzzyUrl
@@ -871,10 +893,6 @@ c.colors.tabs.pinned.selected.even.bg = '#282828'
 # Type: QtColor
 c.colors.webpage.bg = 'white'
 
-# Force `prefers-color-scheme: dark` colors for websites.
-# Type: Bool
-c.colors.webpage.prefers_color_scheme_dark = True
-
 # Render all web contents using a dark theme. Example configurations
 # from Chromium's `chrome://flags`:  - "With simple HSL/CIELAB/RGB-based
 # inversion": Set   `colors.webpage.darkmode.algorithm` accordingly.  -
@@ -888,10 +906,11 @@ c.colors.webpage.prefers_color_scheme_dark = True
 c.colors.webpage.darkmode.enabled = False
 
 # Which algorithm to use for modifying how colors are rendered with
-# darkmode.
+# darkmode. The `lightness-cielab` value was added with QtWebEngine 5.14
+# and is treated like `lightness-hsl` with older QtWebEngine versions.
 # Type: String
 # Valid values:
-#   - lightness-cielab: Modify colors by converting them to CIELAB color space and inverting the L value.
+#   - lightness-cielab: Modify colors by converting them to CIELAB color space and inverting the L value. Not available with Qt < 5.14.
 #   - lightness-hsl: Modify colors by converting them to the HSL color space and inverting the lightness (i.e. the "L" in HSL).
 #   - brightness-rgb: Modify colors by subtracting each of r, g, and b from their maximum value.
 c.colors.webpage.darkmode.algorithm = 'lightness-cielab'
@@ -902,16 +921,15 @@ c.colors.webpage.darkmode.algorithm = 'lightness-cielab'
 # Type: Float
 c.colors.webpage.darkmode.contrast = 0.0
 
-# Which images to apply dark mode to. WARNING: With QtWebengine 5.15.0,
-# this setting can cause frequent renderer process crashes due to a
+# Which images to apply dark mode to. With QtWebEngine 5.15.0, this
+# setting can cause frequent renderer process crashes due to a
 # https://codereview.qt-project.org/c/qt/qtwebengine-
-# chromium/+/304211[bug in Qt]. Thus, the 'smart' setting is ignored and
-# treated like 'never' in that case.
+# chromium/+/304211[bug in Qt].
 # Type: String
 # Valid values:
 #   - always: Apply dark mode filter to all images.
 #   - never: Never apply dark mode filter to any images.
-#   - smart: Apply dark mode based on image content.
+#   - smart: Apply dark mode based on image content. Not available with Qt 5.15.0.
 c.colors.webpage.darkmode.policy.images = 'never'
 
 # Which pages to apply dark mode to.
